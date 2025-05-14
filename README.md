@@ -19,4 +19,4 @@ Make the PCB have 5 corners ... since the Moscow-128 is the first computer that 
 
 Notes:  
 Added "shock_own.lbr"  
-Includes symbols/footprints for KR1818VG93, AY-3-8912, AY-3-8912, 74LS193 and SNP59-96
+Includes symbols/footprints for KR1818VG93, AY-3-8910, AY-3-8912, 74LS193 and SNP59-96
