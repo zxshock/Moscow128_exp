@@ -16,3 +16,7 @@ Maybe add mixing for beeper or regenerate on PCB and mix?
 Jumpers for ABC and ACB Stereo modes?  
 Kempston Joystick interface on port #31 maybe?  
 Make the PCB have 5 corners ... since the Moscow-128 is the first computer that implemented the Pentagon 128 timing.  
+
+Notes:  
+Added "shock_own.lbr"  
+Includes symbols/footprints for KR1818VG93, AY-3-8912, AY-3-8912, 74LS193 and SNP59-96
