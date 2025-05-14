@@ -6,6 +6,7 @@ Currently being recreated in Eagle
 Changes:  
 Removed the Centronics port due to the computer already having one on the standard port #FB  
 4MHz clock for the AY is wrong, will be 1.75MHz (unsure whether to take it from the mainboard or generate locally)  
+--> Will likely be taken from D3-3 on the computer and put on the expansion connector  
 Add labels for western 74LSxx logic chips  
 
 Ideas:  
