@@ -10,9 +10,9 @@ Removed the Centronics port due to the computer already having one on the standa
 Add labels for western 74LSxx logic chips  
 Add footprint for 40pin AY-3-8910  
 Add "VG93 saver" circuit + generate 12V onboard  
+Mix beeper output with AY (taken from D10-5)  
 
 Ideas:  
-Maybe add mixing for beeper or regenerate on PCB and mix? Likely to be taken from D10-5  
 ~Jumpers for ABC and ACB Stereo modes?~  
 Kempston Joystick interface on port #31 maybe?  
 Make the PCB have 5 corners ... since the Moscow-128 is the first computer that implemented the Pentagon 128 timing.  
