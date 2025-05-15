@@ -13,7 +13,7 @@ Add "VG93 saver" circuit + generate 12V onboard
 
 Ideas:  
 Maybe add mixing for beeper or regenerate on PCB and mix? Likely to be taken from D10-5  
--Jumpers for ABC and ACB Stereo modes?-  
+~Jumpers for ABC and ACB Stereo modes?~  
 Kempston Joystick interface on port #31 maybe?  
 Make the PCB have 5 corners ... since the Moscow-128 is the first computer that implemented the Pentagon 128 timing.  
 
