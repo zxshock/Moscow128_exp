@@ -4,18 +4,13 @@ based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP
 Currently being recreated in Eagle  
 
 Changes:  
-Removed the Centronics port due to the computer already having one on the standard port #FB  
-4MHz clock for the AY is wrong, will be 1.75MHz  
---> to be taken from D3-3 on the moscow-128 board and added to the expansion bus connector (pin undecided)  
-Add labels for western 74LSxx logic chips  
-Add footprint for 40pin AY-3-8910  
-Add "VG93 saver" circuit + generate 12V onboard  
-Mix beeper output with AY (taken from D10-5)  
-
-Ideas:  
-~Jumpers for ABC and ACB Stereo modes?~  
-Kempston Joystick interface on port #31 maybe?  
-Make the PCB have 5 corners ... since the Moscow-128 is the first computer that implemented the Pentagon 128 timing.  
+Removed: Centronics port already exists on port #FB  
+Fixed: 4MHz clock for the AY is wrong, will be 1.75MHz (to be taken from D3-3)  
+Added: footprint for 40pin AY-3-8910  
+Added: Mix beeper output with AY (taken from D10-5)  
+Added: "VG93 saver" circuit + generate 12V onboard (as in Scorpion)  
+Added: Kempston Joystick on port #31
+Added: labels for western 74LSxx logic chips  
 
 Notes:  
 Added "shock_own.lbr"  
