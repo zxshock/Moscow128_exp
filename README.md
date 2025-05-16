@@ -4,10 +4,10 @@ based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP
 Currently being recreated in Eagle  
 
 Changes:  
-Removed: Centronics port already exists on port #FB  
+Removed: Centronics port as one already exists on port #FB  
 Fixed: 4MHz clock for the AY is wrong, will be 1.75MHz (to be taken from D3-3)  
 Added: footprint for 40pin AY-3-8910  
-Added: Mix beeper output with AY (taken from D10-5)  
+Added: Mix beeper output with AY (to be taken from D10-5)  
 Added: "VG93 saver" circuit + generate 12V onboard (as in Scorpion)  
 Added: Kempston Joystick on port #31
 Added: labels for western 74LSxx logic chips  
