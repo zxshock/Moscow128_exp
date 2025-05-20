@@ -2,6 +2,7 @@
 Expansion for Moscow-128 ZX clone  
 based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP  
 Currently being recreated in Eagle  
+Codename: BJAY - B(etadisk)J(oystick)AY
 
 Changes:  
 Removed: Centronics port as one already exists on port #FB  
