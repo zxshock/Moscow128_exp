@@ -12,7 +12,8 @@ Added: Mix beeper output with AY (to be taken from D10-5)
 Added: ~"VG93 saver" circuit +~ generate 12V onboard (as in Scorpion)  
 Added: Kempston Joystick on port #31  
 Added: labels for western 74LSxx logic chips  
+Changed: Expansion connector will be DIN 41216 as SNP59-96 are virtually unobtainable for me (for now - maybe I'll release 2 versions with different connectors)  
 
 Notes:  
 Added "shock_own.lbr"  
-Includes symbols/footprints for KR1818VG93, AY-3-8910, AY-3-8912, 74LS193, KT315B and SNP59-96
+Includes symbols/footprints for KR1818VG93, AY-3-8910, AY-3-8912, 74LS193, KT315B, SNP59-96 and DIN41216-96
