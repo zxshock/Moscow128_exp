@@ -1,9 +1,10 @@
 # Moscow128_exp
 Expansion for Moscow-128 ZX clone  
 based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP  
-Currently being recreated in Eagle  
-Codename: BJAY - B(etadisk)J(oystick)AY
+Codename: BJAY - B(etadisk)J(oystick)AY  
+
 Still in the process of fixing my vintage Moscow 128, but getting there.
+So far the machine boots, RAM checks out, software can be loaded via tape ... one of the Sinclair Joystick interfaces is still broken and I haven't explored the programable Joystick interface I'm kind of excited about. Also the LPT port *might* be bad - not sure. Once all that is sorted out I'll start prototyping this project ... expect a 1-3 months delay.
 
 Changes:  
 Removed: Centronics port as one already exists on port #FB  
@@ -14,7 +15,7 @@ Added: ~"VG93 saver" circuit +~ generate 12V onboard (as in Scorpion)
 Added: Kempston Joystick on port #31  
 Added: labels for western 74LSxx logic chips  
 Added: Connector for keyboard address lines + diodes as the original implementation is rather messy  
-Changed: Expansion connector will be DIN 41216 as SNP59-96 are virtually unobtainable outside .ru  
+Changed: Expansion connector will be DIN 41216 as SNP59-96 are virtually unobtainable outside .ru for me  
 
 Notes:  
 Added "shock_own.lbr"  
