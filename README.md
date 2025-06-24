@@ -3,8 +3,7 @@ Expansion for Moscow-128 ZX clone
 based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP  
 Codename: BJAY - B(etadisk)J(oystick)AY  
 
-Still in the process of fixing my vintage Moscow 128, but getting there.
-So far the machine boots, RAM checks out, software can be loaded via tape ... one of the Sinclair Joystick interfaces is still broken and I haven't explored the programable Joystick interface I'm kind of excited about. Also the LPT port *might* be bad - not sure. Once all that is sorted out I'll start prototyping this project ... expect a 1-3 months delay.
+Update 2025-06-23: My Moscow-128 has been restored to full operation by now - beta testing soon.  
 
 Changes:  
 Removed: Centronics port as one already exists on port #FB  
