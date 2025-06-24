@@ -14,8 +14,10 @@ Added: Mix beeper output with AY (to be taken from D10-5)
 Added: ~"VG93 saver" circuit +~ generate 12V onboard (as in Scorpion)  
 Added: Kempston Joystick on port #31  
 Added: labels for western 74LSxx logic chips  
-Added: Connector for keyboard address lines + diodes as the original implementation is rather messy  
 Changed: Expansion connector will be DIN 41216 as SNP59-96 are virtually unobtainable outside .ru for me  
+Added: optional Floppy style 4 pin Molex connector for additional power  
+Added: optional LEDs for 5/12 volts  
+Added: optional connector for keyboard address lines + diodes as the  implementation on the board is a mess  
 
 Notes:  
 Added "shock_own.lbr"  
