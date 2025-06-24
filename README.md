@@ -10,12 +10,12 @@ Changes:
 Removed: Centronics port as one already exists on port #FB  
 Fixed: 4MHz clock for the AY is wrong, will be 1.75MHz (to be taken from D3-3)  
 Added: footprint for 40pin AY-3-8910  
-Added: Mix beeper output with AY (to be taken from D10-5)  
-Added: ~"VG93 saver" circuit +~ generate 12V onboard (as in Scorpion)  
 Added: Kempston Joystick on port #31  
 Added: labels for western 74LSxx logic chips  
 Changed: Expansion connector will be DIN 41216 as SNP59-96 are virtually unobtainable outside .ru for me  
+Added: optional mixing of beeper output with AY (to be taken from D10-5)  
 Added: optional Floppy style 4 pin Molex connector for additional power  
+Added: optional 12V generation onboard for VG93 (as in Scorpion) - not required with MB8877  
 Added: optional LEDs for 5/12 volts  
 Added: optional connector for keyboard address lines + diodes as the  implementation on the board is a mess  
 
