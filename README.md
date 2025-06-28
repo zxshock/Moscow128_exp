@@ -4,8 +4,8 @@ based on "Betadisk Interface 2" found here: https://vtrd.in/book/BDI.ZIP
 Codename: BJAY - B(etadisk)J(oystick)AY  
 
 Update 2025-06-23: My Moscow-128 has been restored to full operation by now - beta testing soon.  
-Update 2025-06-28: postponed for now, as I don't understand some parts namely A4 on D27 and how CSROM/!CSROM would work on a Moscow128, nor if they're required.
-I did do a "mini expansion" with AY + keyboard + power LED on perfboard.
+Update 2025-06-28: postponed for now, as I don't understand some parts namely the purpose of A4 on D27 and how CSROM/!CSROM would work on a Moscow128, nor if they're required.
+I did do a "mini expansion" with AY + keyboard + power LED on perfboard in the meantime. Maybe I'll do Betadisk/kempston only add-ons before fully commiting to a multi expansion.
 
 Changes:  
 Removed: Centronics port as one already exists on port #FB  
